@@ -1,16 +1,16 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js i18n Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js, i18n and Tailwind.css',
+  title: 'Hire for You AI',
+  author: 'Shane Lan',
+  headerTitle: 'Hire4U.ai',
+  description: 'Hire4U.ai is a platform that helps you to hire the best talents for your company.',
   language: 'en',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog-i18n.vercel.app',
-  siteRepo: 'https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'https://hire4u.ai',
+  siteRepo: 'https://github.com/shanelan/hire4u_ai',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  mastodon: 'https://mastodon.social/@hire4uai',
   email: 'address@yoursite.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
